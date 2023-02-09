@@ -1,6 +1,6 @@
 # Augmented-Reality
 
-
+ `![Dragon image](image.jpg)`
 
 ## To run the program- 
 Need main.cpp, calibrate.cpp, calibrate.hpp, ObjectParser.cpp, ObjectParser.hpp, .obj file. 
