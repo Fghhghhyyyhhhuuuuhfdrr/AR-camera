@@ -1,6 +1,6 @@
 # Augmented-Reality
 
- `![Dragon image](image.jpg)`
+ `![Dragon image](screenshots/Screenshot 2022-11-14 at 1.27.09 PM.png)`
 
 ## To run the program- 
 Need main.cpp, calibrate.cpp, calibrate.hpp, ObjectParser.cpp, ObjectParser.hpp, .obj file. 
