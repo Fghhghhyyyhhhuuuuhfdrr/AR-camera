@@ -6,12 +6,6 @@ This project is about Camera Calibration and Augmented Reality. The objective of
 
 After getting camera matrix and distortion coefficient from the camera calibration step, it is used to calculate the transitional vector and rotational vector. Then multiple complex 3-D objects were created using wavefront obj files and manually to project them in the scene with 2-D target.
 
-<img src="https://github.com/shivaniNK8/Augmented-Reality/blob/main/screenshots/Screenshot%202022-11-14%20at%201.27.09%20PM.png" width=50% height=50%>
-
-<img src="https://github.com/shivaniNK8/Augmented-Reality/blob/main/screenshots/Screenshot%202022-11-14%20at%201.30.52%20PM.png" width=50% height=50%>
-
-<img src="https://github.com/shivaniNK8/Augmented-Reality/blob/main/screenshots/Screenshot%202022-11-14%20at%201.30.18%20PM.png" width=50% height=50%>
-
 ## To run the program- 
 Need main.cpp, calibrate.cpp, calibrate.hpp, ObjectParser.cpp, ObjectParser.hpp, .obj file. 
 Open them in an IDE and run the program after adding necessary opencv library files.
